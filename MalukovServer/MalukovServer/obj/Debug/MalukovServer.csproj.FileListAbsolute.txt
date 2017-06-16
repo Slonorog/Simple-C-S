@@ -1,0 +1,9 @@
+c:\users\skifok\documents\visual studio 2015\Projects\MalukovServer\MalukovServer\bin\Debug\MalukovServer.exe.config
+c:\users\skifok\documents\visual studio 2015\Projects\MalukovServer\MalukovServer\bin\Debug\MalukovServer.exe
+c:\users\skifok\documents\visual studio 2015\Projects\MalukovServer\MalukovServer\bin\Debug\MalukovServer.pdb
+c:\users\skifok\documents\visual studio 2015\Projects\MalukovServer\MalukovServer\obj\Debug\MalukovServer.csprojResolveAssemblyReference.cache
+c:\users\skifok\documents\visual studio 2015\Projects\MalukovServer\MalukovServer\obj\Debug\MalukovServer.Form1.resources
+c:\users\skifok\documents\visual studio 2015\Projects\MalukovServer\MalukovServer\obj\Debug\MalukovServer.Properties.Resources.resources
+c:\users\skifok\documents\visual studio 2015\Projects\MalukovServer\MalukovServer\obj\Debug\MalukovServer.csproj.GenerateResource.Cache
+c:\users\skifok\documents\visual studio 2015\Projects\MalukovServer\MalukovServer\obj\Debug\MalukovServer.exe
+c:\users\skifok\documents\visual studio 2015\Projects\MalukovServer\MalukovServer\obj\Debug\MalukovServer.pdb
